@@ -1,4 +1,4 @@
-# Checkeyatex
+# ChecKeYatEx
 
 **TODO: Add description**
 
